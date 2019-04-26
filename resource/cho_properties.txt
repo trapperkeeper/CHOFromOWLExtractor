@@ -229,3 +229,9 @@ http://purl.org/sig/ont/fma/direct_right_of
 http://purl.org/sig/ont/fma/direct_superior_to
 http://purl.org/sig/ont/fma/direct_superolateral_to
 http://purl.org/sig/ont/fma/direct_superomedial_to
+http://purl.org/sig/ont/fma/corresponds_to
+http://purl.org/sig/ont/fma/has_anatomical_landmark
+
+
+
+

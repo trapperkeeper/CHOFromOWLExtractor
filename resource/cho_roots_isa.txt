@@ -658,3 +658,66 @@ Vasculature of skull bone
 Medullary cavity of skull bone
 Vasculature of bony part of skull bone
 Neural network of skull bone
+Anatomical orifice
+Embryonic nasal cavity
+Embryonic oronasal cavity
+Neuraxis
+Brain
+Spinal cord
+Ventricular system of neuraxis
+Region of ventricular system of neuraxis
+Hyaloid membrane
+Region of hyaloid membrane
+Subdivision of head
+Portion of cerebrospinal fluid
+Gestational structure
+Developmental tissue component
+Acellular anatomical structure of tooth
+Acellular anatomical structure of internal ear
+Otolith
+Conjunctival ring
+Corneoscleral junction
+Dentin-enamel junction
+Gingival epithelial attachment
+Interlabial groove
+Iridociliary junction
+Junction of hard and soft palate
+Naso-ethmoid bone complex
+Olfactory system
+Orbit
+Posterior lamella of eyelid
+Region of alveolar arch
+Retromaxillary region
+Subdivision of maxillary alveolar arch
+Segment of alveolodental arch
+Vestibulocochlear organ
+Visual system
+Zygomaticomaxillary bone complex
+Region of jaw
+Maxillary sinus chamber
+Osseocartilaginous segment of pharyngotympanic tube
+Submucosa of region of pharynx
+Submucosa of tonsil
+Alveolopalatal region
+Anterior wall of nasopharynx
+Posterior margin of nasal septum
+Pterygoid region
+Region of hard palate
+Region of lower jaw
+Region of secondary palate
+Region of soft palate
+Region of wall of middle ear
+Segment of pia-arachnoid
+Subdivision of alveolopalatal region
+Tooth socket
+Wall of middle ear
+Wall of paranasal sinus
+Wall of tooth socket
+Modiolus of labial part of mouth
+Region of modiolus of labial part of mouth
+Retrobulbar tissue
+
+
+
+
+
