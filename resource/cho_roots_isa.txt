@@ -1,0 +1,660 @@
+Temporal entity
+Subdivision of head proper
+Integument of head
+Integument of subdivision of head
+Skin of head
+Segment of skin of head
+Superficial fascia of head
+Zone of superficial fascia of head
+Musculoskeletal system of head
+Musculature of head
+Musculature of head proper
+Musculature of auriculotemporal part of head
+Musculature of face
+Muscle of head
+Zone of muscle of head
+Muscle of face
+Musculature of subdivision of face
+Skull
+Subdivision of skull
+Set of bones of skull
+Cartilaginous skeleton of nose
+Cartilaginous skeleton of nasal septum
+Cartilaginous skeleton of external nose
+Cartilaginous skeleton of nasal septum
+Osseous skeleton of nose
+Frontal bone
+Zone of frontal bone
+Parietal bone
+Zone of parietal bone
+Occipital bone
+Zone of occipital bone
+Sutural bone
+Nasal bone
+Auditory ossicle
+Vomer
+Zone of vomer
+Zygomatic bone
+Lacrimal bone
+Inferior nasal concha
+Palatine bone
+Mandible
+Hyoid bone
+Pneumatized bone
+Zone of temporal bone
+Process of bone of skull
+Bony part of hard palate
+Neck of mandible
+Body of mandible
+Body of maxilla
+Body of hyoid bone
+Tubercle of bone of skull
+Suture
+Cranial syndesmosis
+Dento-alveolar joint
+Cranial synchondrosis
+Mandibular symphysis
+Spheno-occipital synostosis
+Cranial synovial joint
+Set of joints of head
+Neurocranium
+Viscerocranium
+Wall of orbit
+Region of wall of orbit
+Clivus of basicranium
+Nasal cartilage
+Cartilage of external ear
+Scalp
+Subdivision of scalp
+Internal nose
+Region of internal nose
+Wall of internal nose
+Wall of right side of internal nose
+Wall of left side of internal nose
+Lateral wall of internal nose
+Wall of nasal meatus
+Nasal septum
+Right side of nasal septum
+Left side of nasal septum
+Septum of internal nose
+Mobile part of nasal septum
+Membranous part of nasal septum
+Palate
+Hard palate
+Soft palate
+Zone of palatine bone
+Zone of ethmoid
+Zone of sphenoid
+Zone of lacrimal bone
+Zone of maxilla
+Zone of mandible
+Lateral part of occipital bone
+Alveolar arch
+Anterior part of soft palate
+Posterior part of soft palate
+Zone of inferior nasal concha
+Base of mandible
+Head of mandible
+Soft palate proper
+Uvula
+Palatoglossal arch
+Palatopharyngeal arch
+Faucial pillar
+Faucial part of mouth
+Jaw
+Right side of upper jaw
+Left side of upper jaw
+Right side of lower jaw
+Left side of lower jaw
+Periorbita
+External table of calvaria
+Internal table of calvaria
+Viscerocranial mucosa
+Region of viscerocranial mucosa
+Zone of viscerocranial mucosa
+Submucosa of palate
+Muscular fascia of eyeball
+Fascia of head
+Gingiva
+Tooth
+Segment of tooth
+Dentin of tooth
+Enamel of tooth
+Cementum of tooth
+Tongue
+Zone of tongue
+Lacrimal gland
+Zone of lacrimal sac
+Zone of lacrimal gland
+Zone of tongue
+Mammelon
+Lacrimal apparatus
+Pericranium
+Head proper
+Subdivision of head proper
+Face
+Subdivision of face
+Eye
+Eyeball
+Ear
+Middle ear
+Internal ear
+Nose
+External nose
+Basicranial part of head proper
+Orbital part of eye
+Orbital content
+Osseous external acoustic tube
+Cartilaginous external acoustic tube
+Content of alveolar compartment of maxilla
+Content of alveolar compartment of mandible
+Periodontal region
+Compartment of head
+Nasolacrimal canal
+Sutural junction
+Intracranial branch of vertebral artery
+Basilar artery
+Branch of basilar artery
+Subdivision of external carotid artery
+Subdivision of internal carotid artery
+Tributary of external jugular vein
+Tributary of pterygoid plexus
+Subdivision of internal jugular vein
+Portion of saliva
+Portion of tear
+Cerumen
+Portion of endolymph
+Portion of perilymph
+Nasal mucus
+Set of subdivisions of head
+Dental arcade
+Maxillary dental arcade
+Mandibular dental arcade
+Set of fontanelles
+Cavity of eyeball
+Subdivision of cavity of eyeball
+Cavity of segment of lacrimal duct
+Cavity of tooth
+Subdivision of cavity of tooth
+Frontal sinus
+Cavity of parietal bone
+Cavity of occipital bone
+Cavity of nasal bone
+Cavity proper of conjunctival sac
+Lacrimal lake
+Spiral canal of modiolus of cochlea
+Tympanic cavity
+Subdivision of tympanic cavity
+Mastoid antrum
+Mastoid air cell
+Paranasal sinus
+Lumen of cochlear duct of membranous labyrinth
+Cavity of vestibular labyrinth
+Subdivision of cavity of vestibular labyrinth
+Cavity of concha of pinna
+Bony nasal cavity
+Anterior cranial fossa
+Middle cranial fossa
+Subdivision of middle cranial fossa
+Posterior cranial fossa
+Fossa for lacrimal sac
+Space of compartment of head
+Diploic space
+Bony socket of maxilla
+Bony socket of mandible
+Labial fissure
+Palpebral fissure
+Nasobuccal fissure
+Cranial conduit space
+Pupil
+Vomerovaginal canal
+Vomerorostral canal
+Orifice of skull
+Opening of nasolacrimal duct
+Lacrimal punctum
+Orifice of pharyngotympanic tube
+Oval window
+Round window of petrous part of temporal bone
+Oral orifice
+External naris
+Space of nasolacrimal canal
+Surface of subdivision of head
+Surface of eyeball
+Region of surface of eyeball
+Surface of region of wall of eyeball
+Region of surface of viscerocranial mucosa
+Region of surface of tooth
+Region of surface of tonsil
+Mandibular fossa
+Retromolar triangle
+Region of surface of skull bone
+Fossa of oval window
+Fossa of round window
+Surface of region of membranous labyrinth
+Surface of skull
+Subdivision of surface of skull
+Tonsillar fossa
+Supratonsillar fossa
+Anatomical line of skull
+Anatomical line of eyeball
+Anatomical line of eyelid
+Anatomical line of pinna
+Margin of tongue
+Terminal sulcus of tongue
+Median sulcus of tongue
+Vermilion border
+Anatomical line of tooth
+Gingival margin
+Gingival groove
+Tonsillar cleft
+Palatovaginal groove
+Vomerovaginal groove
+Olfactory groove
+Nasofacial line
+Nasolabial line
+Nasobuccal line
+Superior margin of tragus
+Anatomical point of skull
+Apex of petrous part of temporal bone
+Foramen caecum of tongue
+Apex of tooth
+Endocanthion
+Exocanthion
+Posterior pole of lens
+Labiale superius
+Stomion
+Labiale inferius
+Sublabiale
+Alare
+Alar curvature point
+Subalare
+Crista philtri
+Chelion
+Subnasale
+Tragion
+Set of choanae
+Set of paranasal sinuses
+Set of tonsillar crypts
+Macula cribrosa
+Set of semicircular canal spaces
+Set of diploic spaces of cranial bones
+Cranial nerve
+Cranial nerve-tract complex
+Trunk of cranial nerve
+Trunk of branch of cranial nerve
+Optic nerve
+Optic chiasm
+Branch of cranial nerve
+Cranial accessory nerve
+Cranial sensory ganglion
+Cranial parasympathetic ganglion
+Subdivision of deep fascial system
+Aponeurosis of epicranius
+Subdivision of aponeurosis of epicranius
+Aponeurosis of procerus
+Aponeurosis of nasalis
+Palatine aponeurosis
+Aponeurosis of masseter
+Lingual aponeurosis
+Masseteric fascia
+Parotid fascia
+Temporal fascia
+Superficial layer of temporal fascia
+Deep layer of temporal fascia
+Pharyngotympanic tube
+Lacrimal duct
+Palpebral commissure
+Labial commissure of mouth
+Oral commissure
+Orbital fat body
+Buccal fat pad
+Conjunctival sac
+Bursa of tensor veli palatini
+Membranous labyrinth
+Tarsal plate of eyelid
+Orbital septum
+Thyrohyoid membrane
+Periorbital body
+Tympanic membrane
+Secondary tympanic membrane
+Region of conjunctiva
+Segment of major alar cartilage
+Segment of pharyngotympanic tube
+Cartilage process
+Alveolar part of mandible
+Condylar process of mandible
+Coronoid process of mandible
+Facial modiolus
+Pterygomandibular raphe
+Pharyngeal raphe
+Dentition
+Set of major salivary glands
+Salivary gland
+Zone of cartilage of external ear
+Zone of tympanic membrane
+Tubercle of tooth
+Paramolar cusp
+Ligament of pinna
+Sutural ligament
+Periodontium
+Ligament of temporomandibular joint
+External acoustic meatal space
+External part of external acoustic meatal space
+Middle part of external acoustic meatal space
+Inner part of external acoustic meatal space
+Bony part of frontal bone
+Bony part of occipital bone
+Bony part of parietal bone
+Bony part of nasal bone
+Bony part of frontal bone
+Bony part of vomer
+Bony part of zygomatic bone
+Bony part of lacrimal bone
+Bony part of inferior nasal concha
+Bony part of palatine bone
+Bony part of maxilla
+Bony part of ethmoid bone
+Bony part of sphenoid bone
+Bony part of hyoid bone
+Bony part of pharyngotympanic tube
+Oropharyngeal isthmus
+Articular part of flat bone
+Cartilaginous component
+Lens
+Region of lens capsule
+Mucosa of tongue
+Region of mucosa of tongue
+Mucosa of lacrimal duct
+Mucosa of tympanic membrane
+Mucosa of pharyngotympanic tube
+Orbitalis
+Vestibular membrane of cochlear duct
+Membranous lamina of pharyngotympanic tube
+Lamina propria of tongue
+Lamina propria of dorsum of tongue
+Lamina propria of ventrum of tongue
+Lamina propria of viscerocranial mucosa
+Lamina propria of nasopharynx
+Lamina propria of oropharynx
+Lamina propria of mucosa of mouth
+Lamina propria of base of tongue
+Epithelium of viscerocranial mucosa
+Epithelium of oropharynx
+Epithelium of skin of external nose
+Gingival epithelium
+Epithelium of oral segment of viscerocranium
+Epithelium of tongue
+Parakeratinized epithelium of tongue
+Epithelium of cornea
+Epithelium of iris
+Sensory epithelium
+Epithelium of lens
+Dense regular collagenous tissue of cornea
+Articular cartilage of head of mandible
+Articular cartilage of posterior part of zygomatic process of temporal bone
+Bone of skull bone
+Dental pulp
+Trabecular tissue of sclera
+Fibrous connective tissue of macula of utricle of membranous labyrinth
+Fibrous connective tissue of macula of saccule of membranous labyrinth
+Fibrous connective tissue of crista of ampulla of semicircular duct of membranous labyrinth
+Skeletal muscle tissue of muscle of head
+Lymphoid nodule of tonsil
+Nasopharyngeal lymphoid tissue
+Hair of head
+Sweat gland of eyelid
+Sebaceous gland of eyelid
+Tarsal gland
+Compact bone of skull bone
+Binasal bone
+Palatoglossal arch
+Palatopharyngeal arch
+Ligament of auditory ossicle
+Fiat anatomical line of head
+Hairline
+Posterior hairline
+Anterior hairline
+Lateral hairline
+Surface of region of wall of eyeball
+Wall of pharyngotympanic tube
+Wall of eyeball
+Region of wall of eyeball
+Region of vascular layer of eyeball
+Wall of membranous labyrinth
+Lamina propria of pharyngotympanic tube
+Region of mucosa of pharyngotympanic tube
+Region of lamina propria of pharyngotympanic tube
+Layer of cornea
+Layer of retina
+Lamina cribrosa of sclera
+Layer of wall of eyeball
+Fascial sheath of eyeball
+Zone of eyeball
+Pharyngeal lymphoid nodule
+Lamina of spiral limbus
+Reticular membrane of spiral organ
+Layer of secondary tympanic membrane
+Layer of tympanic membrane
+Cricothyroid ligament
+Vocal ligament
+Region of wall of lacrimal duct
+Medial wall of ethmoidal labyrinth
+Wall of parotid duct
+Wall of submandibular duct
+Wall of sublingual duct
+Mucosa of ventrum of tongue
+Mucosa of base of tongue
+Submucosa of ventrum of tongue
+Submucosa of dorsum of tongue
+Submucosa of faucial part of mouth
+Submucosa of base of tongue
+Region of wall of membranous labyrinth
+Region of wall of pharyngotympanic tube
+Region of crown of tooth
+Viscerocranial mucosal fold
+Papilla of parotid duct
+Zone of parotid gland
+Region of wall of vestibular labyrinth
+Region of membranous labyrinth of internal ear
+Region of lacrimal canaliculus
+Region of suspensory ligament of lens
+Choroid proper
+Region of tongue
+Region of layer of wall of eyeball
+Segment of lens
+Segment of parotid gland
+Segment of submandibular gland
+Segment of lacrimal duct
+Excretory duct of lacrimal gland
+Duct of salivary gland
+Sublingual duct
+Sublingual duct tree
+Segment of eyeball
+Segment of gingiva
+Zone of submandibular gland
+Zone of superior pharyngeal constrictor
+Zone of middle pharyngeal constrictor
+Zone of inferior pharyngeal constrictor
+Zone of palatopharyngeus
+Zone of cricopharyngeus
+Zone of cricothyroid
+Zone of thyro-arytenoid
+Zone of oblique arytenoid
+Zone of stapes
+Handle of malleus
+Head of malleus
+Neck of malleus
+Base of stapes
+Head of stapes
+Zone of lens
+Body of arytenoid cartilage
+Body of incus
+Deep part of incisivus labii superioris
+Superficial part of incisivus labii superioris
+Deep part of masseter
+Superficial part of masseter
+Zone of arytenoid cartilage
+Pharyngeal tubercle
+Ampullary crest of semicircular duct
+Fibrous layer of pharynx
+Region of surface of arytenoid cartilage
+Surface of nasal bone
+Surface of frontal bone
+Surface of occipital bone
+Surface of parietal bone
+Surface of ethmoid
+Surface of temporal bone
+Surface of inferior nasal concha
+Surface of sphenoid
+Surface of lacrimal bone
+Surface of zygomatic bone
+Surface of vomer
+Surface of maxilla
+Surface of mandible
+Surface of palatine bone
+Surface of auditory ossicle
+Subdivision of cavity of organ system subdivision
+Network of trabecular spaces in bone tissue of parietal bone
+Network of trabecular spaces in bone tissue of frontal bone
+Network of trabecular spaces in bone tissue of occipital bone
+Network of trabecular spaces in bone tissue of nasal bone
+Cavity of pharynx
+Episcleral space
+Zonular space
+Retrozonular space
+Perichoroidal space
+Apical foramen of root of tooth
+Pharyngeal isthmus
+Lateral crest of philtrum
+Palatine raphe
+Occlusal fissure
+Crest of round window
+Groove for transverse sinus
+Groove for occipital sinus
+Groove for marginal sinus
+Groove of pterygoid hamulus
+Pterygomaxillary fissure
+Notch in cartilage of external acoustic meatus
+Tentorial incisure
+Lateral border of skin of face
+Lumen of pharyngotympanic tube
+Lumen of membranous labyrinth
+Lumen of lacrimal duct
+Lumen of duct of salivary gland
+Cochlear recess
+Sinus tympani
+Conjunctival crypt
+Anatomical line of labial part of mouth
+Angle of vermilion commissure
+Margin of oral orifice
+Segment of margin of oral orifice
+Nasobuccal line
+Superior margin of tragus
+Anatomical point of head
+Surface of region of skull bone
+Plane of oral orifice
+Craniocervical plane
+Layer of tooth
+Developmental organism
+Cardinal subdivision of developmental organism
+Developmental organ system
+Cardinal subdivision of developmental organ system
+Developmental organ
+Developmental cardinal organ part
+Developmental tissue
+Developmental cell
+Developmental cluster
+Extra-embryonic structure
+Developmental space
+Developmental stage
+Head
+Stapedial membrane
+Tarsal plate of eyelid
+Tympanic membrane
+Superior synovial membrane of temporomandibular joint
+Inferior synovial membrane of temporomandibular joint
+Periorbital body
+Tissue component of hair
+Region of hair follicle
+Region of hair
+Region of dental pulp
+Layer of corneal epithelium
+Layer of epithelium of ciliary body
+Region of papillary layer of dermis
+Layer of dermis
+Region of of cartilage of pharyngotympanic tube
+Simple coiled tubular gland
+Olfactory gland
+Pharyngeal lymphoid tissue
+Head
+Skeletal system of head
+Lateral process of malleus
+Anterior process of malleus
+Lamellar bone
+Chamber of eyeball
+Taste bud
+Synovial membrane
+Inferior cerebellar vein
+Superior cerebellar vein
+Portion of sweat
+Conjunctiva
+Stroma of iris
+Stroma of ciliary body
+Nasal cavity
+Temporal process of zygomatic bone
+Frontal process of zygomatic bone
+Whole portion of vitreous humor
+Vitreous body
+Venous plexus
+Helix
+Elastic cartilage
+Epidermis
+Layer of epidermis proper
+Compound tubular gland
+Tributary of dural venous sinus
+Spiral sulcus
+Medulla of lymph node
+Cortex of lymph node
+Trabecula of lymph node
+Intranodal lymphatic vessel
+Osseous spiral lamina
+Infraorbital nerve plexus
+External carotid nerve plexus
+Internal carotid nerve plexus
+Olfactory epithelium
+Nasal epithelium
+Endothelium of venule
+Venule
+Nasofrontal vein
+Palatine gland
+Temporal vein
+Trabecular bone
+Transverse sinus
+Tubotympanic recess
+Tympanic ring
+Vasa hyaloidea propria
+Region of ganglion
+Spiral organ of cochlea
+Portion of sputum
+Dural venous sinus
+Perichondrium
+Rectus muscle of eye
+Reticular lamina
+Epithelium of duct of salivary gland
+Circumventricular organ of neuraxis
+Posterior limiting lamina of cornea
+Perilymphatic space
+Set of developmental entities
+Region of pharyngeal arch
+Muscle body of muscle of head
+Tendon of muscle of head
+Belly of muscle of head
+Distal zone of muscle of head
+Proximal zone of muscle of head
+Periosteum of skull bone
+Periosteum of region of skull bone
+Endosteum of skull bone
+Vasculature of skull bone
+Medullary cavity of skull bone
+Vasculature of bony part of skull bone
+Neural network of skull bone
